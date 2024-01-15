@@ -1,6 +1,5 @@
 
 from tkinter import filedialog as fd
-from win10toast import ToastNotifier
 import time
 import os
 import pygetwindow
